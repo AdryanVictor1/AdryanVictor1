@@ -1,7 +1,6 @@
 ### Sou Adryan Victor 1 👋
 
 
-- 🔭 I intend to work in the front-end area
 - 🌱 currently studying front-end
 
 <div style="display: inline_block"><br>
